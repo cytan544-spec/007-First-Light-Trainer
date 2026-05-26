@@ -4,8 +4,7 @@
   
   <p><strong>Advanced Trainer for James Bond: 007 First Light</strong></p>
   
-  <!-- Кликабельные шилды -->
-  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases">
+<a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases">
     <img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
   </a>
   
@@ -21,14 +20,7 @@
   <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
 </div>
   
-  <br><br>
-  <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
-</div>
-  <br><br>
-  <strong>40+ Features • 10 Exclusive Features</strong>
-</div>
-
-<img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/9fb37ccd-b77b-4180-9e56-fe523c98489f" />
+ <img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/9fb37ccd-b77b-4180-9e56-fe523c98489f" />
 
 <div align="center">
   <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/download/007-First-Light-Trainer/007FirstLightTrainer.exe">
