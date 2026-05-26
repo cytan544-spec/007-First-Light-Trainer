@@ -137,13 +137,8 @@ Full invisibility + noclip combined with action recording & playback (macros). I
 
 ---
 
-## Screenshots
 
-<div align="center">
- 
-## Screenshots
-
-<div align="center">
+ <div align="center">
 
 ### Trainer Interface
 <img src="https://i.imgur.com/placeholder1.jpg" width="780" alt="007 First Light Trainer Menu" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.6);"/>
@@ -151,24 +146,6 @@ Full invisibility + noclip combined with action recording & playback (macros). I
 ### Exclusive Features Showcase
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr)); gap: 16px; margin-top: 20px;">
-
-  <div>
-    <img src="<img width="1274" height="797" alt="image" src="https://github.com/user-attachments/assets/88377619-2e69-483d-8566-49d08132fbfc" />
-" width="100%" alt="License to Kill Editor" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"/>
-    <p><strong>1. License to Kill Editor</strong></p>
-  </div>
-
-  <div>
-    <img src="https://i.imgur.com/placeholder3.jpg" width="100%" alt="Bond Time Dilation" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"/>
-    <p><strong>5. Bond Time Dilation</strong></p>
-  </div>
-
-  <div>
-    <img src="https://i.imgur.com/placeholder4.jpg" width="100%" alt="Environmental Chaos Engine" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);"/>
-    <p><strong>6. Environmental Chaos Engine</strong></p>
-  </div>
-
-</div>
 
 </div>
 
