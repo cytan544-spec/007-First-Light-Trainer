@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/github/downloads/YourUsername/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
   <img src="https://img.shields.io/github/v/release/YourUsername/007-First-Light-Trainer?style=for-the-badge&color=crimson" alt="Latest Release"/>
   <img src="https://img.shields.io/github/license/YourUsername/007-First-Light-Trainer?style=for-the-badge&color=0072B8" alt="License"/>
-  
+
+<img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/9fb37ccd-b77b-4180-9e56-fe523c98489f" />
+ 
   <br><br>
   <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
 </div>
