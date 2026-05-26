@@ -1,12 +1,26 @@
 <div align="center">
+  <img src="https://i.imgur.com/placeholder.jpg" alt="007 First Light Trainer" width="800"/>
   
   <h1>007 First Light Trainer</h1>
   
   <p><strong>Advanced Trainer for James Bond: 007 First Light</strong></p>
   
-<img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
-  <img src="https://img.shields.io/github/v/release/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=crimson" alt="Latest Release"/>
-  <img src="https://img.shields.io/github/license/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=0072B8" alt="License"/>
+  <!-- Кликабельные шилды -->
+  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases">
+    <img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
+  </a>
+  
+  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/latest">
+    <img src="https://img.shields.io/github/v/release/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=crimson" alt="Latest Release"/>
+  </a>
+  
+  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=0072B8" alt="License"/>
+  </a>
+  
+  <br><br>
+  <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
+</div>
   
   <br><br>
   <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
