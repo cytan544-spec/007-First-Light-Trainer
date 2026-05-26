@@ -175,8 +175,6 @@ Use at your own risk.
 
 ---
 
-**License to Cheat Activated.**
-
 ---
 
 ## SEO Keywords (Top Search Terms)
