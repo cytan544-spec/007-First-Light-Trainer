@@ -3,9 +3,20 @@
   
   <p><strong>Advanced Trainer for James Bond: 007 First Light</strong></p>
   
-  <img src="https://img.shields.io/github/downloads/YourUsername/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
-  <img src="https://img.shields.io/github/v/release/YourUsername/007-First-Light-Trainer?style=for-the-badge&color=crimson" alt="Latest Release"/>
-  <img src="https://img.shields.io/github/license/YourUsername/007-First-Light-Trainer?style=for-the-badge&color=0072B8" alt="License"/>
+<div align="center">
+  <img src="https://i.imgur.com/placeholder.jpg" alt="007 First Light Trainer Banner" width="820" style="border-radius: 12px;"/>
+  
+  <h1>007 First Light Trainer</h1>
+  
+  <p><strong>Powerful Trainer for James Bond: 007 First Light</strong></p>
+  
+  <img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold&logo=github" alt="Downloads"/>
+  <img src="https://img.shields.io/github/v/release/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=crimson&logo=github" alt="Latest Release"/>
+  <img src="https://img.shields.io/github/license/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=0072B8&logo=github" alt="License"/>
+  
+  <br><br>
+  <strong>40+ Features • 10 Exclusive Features</strong>
+</div>
 
 <img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/9fb37ccd-b77b-4180-9e56-fe523c98489f" />
 
