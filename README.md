@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/placeholder.jpg" alt="007 First Light Trainer" width="800"/>
   
   <h1>007 First Light Trainer</h1>
   
