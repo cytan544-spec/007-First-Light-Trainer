@@ -140,7 +140,8 @@ Full invisibility + noclip combined with action recording & playback (macros). I
 ## Screenshots
 
 <div align="center">
-  <img src="https://i.imgur.com/placeholder1.jpg" width="400" alt="Trainer Menu"/>
+  <img src="<img width="1278" height="794" alt="image" src="https://github.com/user-attachments/assets/3d671325-9d70-4115-9db5-6d3ac303a1d9" />
+" width="400" alt="Trainer Menu"/>
   <img src="https://i.imgur.com/placeholder2.jpg" width="400" alt="License to Kill Editor"/>
   <img src="https://i.imgur.com/placeholder3.jpg" width="400" alt="Bond Time Dilation"/>
   <img src="https://i.imgur.com/placeholder4.jpg" width="400" alt="Environmental Chaos"/>
