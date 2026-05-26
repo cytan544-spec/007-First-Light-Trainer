@@ -141,7 +141,13 @@ Full invisibility + noclip combined with action recording & playback (macros). I
  <div align="center">
 
 ### Trainer Interface
-<img src="https://i.imgur.com/placeholder1.jpg" width="780" alt="007 First Light Trainer Menu" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.6);"/>
+
+<img width="1274" height="792" alt="image" src="https://github.com/user-attachments/assets/998a7f06-e3a5-4825-8257-3b904cd92266" />
+
+<img width="1275" height="796" alt="image" src="https://github.com/user-attachments/assets/0f56935a-c1a9-4faf-a720-8f7e88016444" />
+
+<img width="1274" height="795" alt="image" src="https://github.com/user-attachments/assets/a7416512-84e2-4f87-9b0e-5baa9399b169" />
+
 
 ### Exclusive Features Showcase
 
