@@ -28,13 +28,8 @@
          alt="Download Latest Version" 
          height="70">
   </a>
-</div>
- 
-  <br><br>
-  <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
-</div>
 
----
+ ---
 
 ## About
 
