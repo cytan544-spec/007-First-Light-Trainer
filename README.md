@@ -4,8 +4,7 @@
   
   <p><strong>Advanced Trainer for James Bond: 007 First Light</strong></p>
   
-  <!-- Исправленные шилды -->
-  <img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
+<img src="https://img.shields.io/github/downloads/cytan544-spec/007-First-Light-Trainer/total?style=for-the-badge&color=gold" alt="Downloads"/>
   <img src="https://img.shields.io/github/v/release/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=crimson" alt="Latest Release"/>
   <img src="https://img.shields.io/github/license/cytan544-spec/007-First-Light-Trainer?style=for-the-badge&color=0072B8" alt="License"/>
   
